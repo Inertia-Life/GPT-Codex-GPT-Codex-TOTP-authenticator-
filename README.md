@@ -3,7 +3,7 @@ GPT/Codex 身份验证器，由花蝇蝶制作。支持扫码或手动导入密�
 
 # 本工具网页端已经上线，可点击使用：
 # The web version of this tool has been launched and can be accessed for use:
-https://inertia-life.github.io/Codex-TOTP-authenticator/
+https://inertia-life.github.io/GPT-Codex-TOTP-authenticator/
 
 # ！！！请及时备份自己绑定验证器时的密钥！！！
 # Please promptly back up the key you used when binding the validator!!!
